@@ -1,6 +1,6 @@
 # 📚 Library Management System (Python)
 
-A command-line based Library Management System built using Python, designed to efficiently manage books and simulate real-world library operations.
+A Python-based Library Management System built using OOP and JSON for persistent storage, supporting book search, issue/return tracking, and efficient data management.
 
 ---
 
