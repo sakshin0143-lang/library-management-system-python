@@ -1,17 +1,14 @@
-# 📚 Library Management System (Python)
+📚 Library Management System using Python
 
-A simple and efficient Library Management System built using Python.
+This project is a command-line based Library Management System developed using Python. It allows users to efficiently manage books with features such as adding, viewing, searching, issuing, and returning books.
 
-## 🚀 Features
-- Add books
-- View books
-- Search books
-- Issue books with user tracking
-- Return books
-- Persistent storage using JSON
+The system uses Object-Oriented Programming (OOP) principles for modular design and JSON file handling for persistent data storage. It also tracks issued books along with user details, making it a practical simulation of real-world library operations.
 
-## 🛠️ Tech Stack
-- Python
-- OOP (Object-Oriented Programming)
-- File Handling
-- JSON
+Key Highlights:
+- Implemented CRUD operations for book management
+- Used JSON for structured data storage
+- Applied OOP concepts for clean and maintainable code
+- Added search functionality using efficient filtering
+- Handled user input errors using exception handling
+
+This project helped strengthen my understanding of Python fundamentals, data structures, and real-world application development.
